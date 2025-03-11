@@ -28,7 +28,7 @@ function Bloging() {
                     </div>
                     <h2 className='max-sm:mt-2'>   I want to study, but I waste my whole day without doing anything significant, and am unable to concentrate. What should I do?</h2>
                     <div className='user-img h-96 mt-3 '>
-                        <img className='object-cover h-full w-full' src='./src/assets/zfohxnf8t3pa1.webp' />
+                        <img className='object-cover h-full w-full' src='../src/assets/dog_wit_girl[1].jpg' />
 
                     </div>
                     <div className='border border-slate-300  flex p-1 gap-10 items-center mt-2 rounded-md bg-white '>
